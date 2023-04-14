@@ -1,3 +1,3 @@
-# Augular-Sample-Project
+# Augular First Project
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-mabfxe-a3ip3f)
